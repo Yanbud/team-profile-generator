@@ -10,7 +10,7 @@ Users can run the command to start creating the README.md file:
 
 ## Links
 <p dir="auto"><a href="https://drive.google.com/file/d/1hq2ZCxr2WohiJeEDKAQs32LYJzwTRk2r/view?usp=sharing">Link to the walkthrough video</a></p>
-<p dir="auto"><a href="https://github.com/Yanbud/README-Generator">Link to the code repository</a></p>
+<p dir="auto"><a href="https://github.com/Yanbud/team-profile-generator">Link to the code repository</a></p>
 
 ## License
 This project is licensed under the MIT license.
